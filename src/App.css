@@ -3,6 +3,14 @@
 }
 
 h1.title {
+  margin-top: 0;
   font-size: 72px;
   color: #55a4dc;
+}
+
+.gh-link{
+  display: block;
+  margin: 20px;
+  color: #fff;
+  text-align: start;
 }
