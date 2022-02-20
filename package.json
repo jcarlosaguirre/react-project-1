@@ -2,7 +2,7 @@
   "name": "monsters_first",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jcarlosaguirre.github.io/react-practice1",
+  "homepage": "https://jcarlosaguirre.github.io/react-project-1",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
